@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-38m1gm.radarsatu88.cfd/sitemap.xml
